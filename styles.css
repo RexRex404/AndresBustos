@@ -57,3 +57,36 @@
   .gray-row {
     background-color: #f2f2f2;
   }
+
+  .Stylebaner {
+    height: 500px;
+}
+
+.fs-1 {
+    height: 250px;
+}
+
+.logo {
+    width: 200px;
+    height: 100px;
+}
+
+.iconosfooter {
+    width: 40px;
+    height: 34px;
+}
+
+.cardstilo {width: 18rem !important }
+.tamañoimagen{height: 14rem;}
+.tamañode{height: 6rem;}
+
+
+#tarjetaDetalle{width: 550px;
+}
+
+.tamañoDetallesIMg{height: 100vh;
+width: 100vh;}
+#divButtonNext{width: 5vh;
+}
+#divButtonPREV{width: 5vh;
+}
